@@ -173,6 +173,8 @@ p{
         left:0;
     }*/
     body{
+        position:absolute;
+        left:0;
         height:100%;
     }
     .login-box{

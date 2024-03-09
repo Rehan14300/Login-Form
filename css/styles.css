@@ -177,6 +177,7 @@ p{
     }
     .login-box{
         width: 375px;
+        height:420px;
         position: absolute;
         top:25%;
         left:5%;
@@ -192,6 +193,8 @@ p{
     }
     .right{
         float: left;
+        width:375px;
+        height:419px;
         position:absolute;
         left:5%;
     }

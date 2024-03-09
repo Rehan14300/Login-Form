@@ -173,15 +173,11 @@ p{
         left:0;
     }*/
     body{
-        position:absolute;
-        left:0;
         height:100%;
     }
     .login-box{
         width: 350px;
-        position: absolute;
-        top: 25%;
-        left: 8%;
+        position: relative;
     }
     ::placeholder{
         color: rgba(0,0,100,0.5);
@@ -190,9 +186,12 @@ p{
     }
     .left{
         display: none;
+        
     }
     .right{
         float: left;
+        position:absolute;
+        left:9%;
     }
     .right h1{
         text-align: center;

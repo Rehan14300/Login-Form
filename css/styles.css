@@ -179,9 +179,10 @@ p{
         left: 15%;
     }
     ::placeholder{
-    color: rgba(0,0,100,0.5);
-    font-size: 15px;
-    text-transform: none;
+        color: rgba(0,0,100,0.5);
+        font-size: 15px;
+        text-transform: none;
+    }
     .left{
         display: none;
     }

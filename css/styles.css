@@ -169,7 +169,7 @@ p{
         background-size: cover;
         background-repeat: no-repeat;
         height:100%;
-        position:absolute;
+        position:relative;
         left:0;
     }
     .login-box{
@@ -178,6 +178,10 @@ p{
         top: 25%;
         left: 15%;
     }
+    ::placeholder{
+    color: rgba(0,0,100,0.5);
+    font-size: 15px;
+    text-transform: none;
     .left{
         display: none;
     }

@@ -168,7 +168,7 @@ p{
         background-image: url(images/nuclear-blur.jpg);
         background-size: cover;
         background-repeat: no-repeat;
-        height:100vh;
+        height:100%;
         position:absolute;
         left:-12px;
     }
@@ -176,8 +176,8 @@ p{
         width: 350px;
         position: absolute;
         top: 25%;
-        left: 11%;
-        right:22%;
+        left: 8%;
+        right:20%;
     }
     .left{
         display: none;

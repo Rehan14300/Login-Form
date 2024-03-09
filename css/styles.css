@@ -169,12 +169,14 @@ p{
         background-size: cover;
         background-repeat: no-repeat;
         height:100%;
+        position:absolute;
+        left: -5%;
     }
     .login-box{
         width: 350px;
         position: absolute;
         top: 25%;
-        left: 12%;
+        left: 9.5%;
     }
     .left{
         display: none;

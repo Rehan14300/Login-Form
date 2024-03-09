@@ -183,7 +183,7 @@ p{
         left:3%;
     }
     ::placeholder{
-        color: rgba(0,0,grey,0.5);
+        color: rgba(128,128,128,0.5);
         font-size: 15px;
         text-transform: none;
     }

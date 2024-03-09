@@ -176,8 +176,10 @@ p{
         height:100%;
     }
     .login-box{
-        width: 350px;
-        position: relative;
+        width: 375px;
+        position: absolute;
+        top:25%;
+        left:4.5%;
     }
     ::placeholder{
         color: rgba(0,0,100,0.5);
@@ -191,7 +193,7 @@ p{
     .right{
         float: left;
         position:absolute;
-        left:4%;
+        left:4.5%;
     }
     .right h1{
         text-align: center;

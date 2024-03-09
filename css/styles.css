@@ -180,11 +180,11 @@ p{
         height:420px;
         position: absolute;
         top:25%;
-        left:5%;
+        left:3%;
     }
     ::placeholder{
-        color: rgba(0,0,100,0.5);
-        font-size: 15px;
+        color: rgba(0,0,90,0.5);
+        font-size: 11px;
         text-transform: none;
     }
     .left{
@@ -194,7 +194,7 @@ p{
     .right{
         float: left;
         position:absolute;
-        left:5%;
+        left:3%;
     }
     .right h1{
         text-align: center;

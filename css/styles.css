@@ -172,11 +172,14 @@ p{
         position: absolute;
         left:0;
     }*/
+    body{
+        height:100%;
+    }
     .login-box{
         width: 350px;
         position: absolute;
         top: 25%;
-        left: 9%;
+        left: 8%;
     }
     ::placeholder{
         color: rgba(0,0,100,0.5);

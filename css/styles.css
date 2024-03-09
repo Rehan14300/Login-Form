@@ -18,8 +18,10 @@ body{
     height: 420px;
     background-color: transparent;
     position: absolute;
-    top: 25%;
-    left: 28%;
+    top: 25vh;
+    bottom: 25vh;
+    left: 25vw;
+    right: 25vw;
     box-sizing: border-box;
     box-shadow: 0 10px 20px 10px rgba(0, 0, 0, 0.5);
     border: none;

@@ -168,6 +168,9 @@ p{
         background-image: url(images/nuclear-blur.jpg);
         background-size: cover;
         background-repeat: no-repeat;
+        height:100vh;
+        position:absolute;
+        left:-12px;
     }
     .login-box{
         width: 350px;

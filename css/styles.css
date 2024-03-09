@@ -8,7 +8,7 @@ body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-image: url('images/nuclear-blur.jpg');
+    background-image: url(https://raw.githubusercontent.com/Rehan14300/Login-Form/main/images/nuclear-blur.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     max-width: 1200px;
@@ -165,7 +165,7 @@ p{
         margin: 0;
         padding: 0;
         box-sizing: border-box;
-        background-image: url('images/nuclear-blur.jpg');
+        background-image: url(https://raw.githubusercontent.com/Rehan14300/Login-Form/main/images/nuclear-blur.jpg);
         background-size: cover;
         background-repeat: no-repeat;
     }
